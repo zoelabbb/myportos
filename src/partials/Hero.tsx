@@ -23,7 +23,7 @@ const Hero = () => (
         <img
           className="h-80 rounded-full"
           src="/assets/images/profile/prof.png"
-          alt="Avatar image"
+          alt="Instagram @alifryuu and @makudonaru_"
           loading="lazy"
         />
       }
