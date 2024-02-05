@@ -46,7 +46,7 @@ const ProjectList = () => (
           </>
         }
       />
-      <Project
+      {/* <Project
         name="Project 3"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
         bibendum. Nunc non posuere consectetur, justo erat semper enim, non
@@ -60,7 +60,7 @@ const ProjectList = () => (
             <Tags color={ColorTags.ROSE}>TypeScript</Tags>
           </>
         }
-      />
+      /> */}
     </div>
   </Section>
 );
