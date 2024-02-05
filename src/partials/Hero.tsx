@@ -14,15 +14,15 @@ const Hero = () => (
         </>
       }
       description={
-        <>
-          I have experience in the field of Implementation Web Designer and Web Developer for 5 years using Codeigniter Framework & Have experience as a Backend Developer, Cyber Security, and Quality Assurance.
+        <p>
+          I have experience in the field of Implementation Web Designer and Web Developer for 5 years using Codeigniter Framework & Have experience as a Backend Developer and Cybersecurity Analyst.
           I can adapt and work with a team, like to learn new things to increase my skills and knowledge.
-        </>
+        </p>
       }
       avatar={
         <img
-          className="h-80 w-64"
-          src="/assets/images/avatar.svg"
+          className="h-80 rounded-full"
+          src="/assets/images/profile/prof.png"
           alt="Avatar image"
           loading="lazy"
         />
