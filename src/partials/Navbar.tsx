@@ -33,10 +33,11 @@ const Navbar = () => (
       </a>
 
       <NavMenu>
-        <NavMenuItem href="/assets/cv/Resume_Alif%20Ryuu%20BR.pdf">CV</NavMenuItem>
+        <NavMenuItem href="/">Home</NavMenuItem>
         <NavMenuItem href="/posts/">Blogs</NavMenuItem>
         <NavMenuItem href="https://github.com/zoelabbb">GitHub</NavMenuItem>
         <NavMenuItem href="https://www.linkedin.com/in/alifryuu">LinkedIn</NavMenuItem>
+        <NavMenuItem href="/assets/cv/Resume_Alif%20Ryuu%20BR.pdf">CV</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>
