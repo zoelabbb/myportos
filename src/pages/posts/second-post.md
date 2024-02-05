@@ -1,7 +1,7 @@
 ---
 layout: "@/templates/BasePost.astro"
 title: JavaScript Regular Functions vs Arrow Functions
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+description: Pada artikel ini, kita akan sama-sama mempelajari bagaimana cara menggunakan Regular Function dan Arrow Function.
 pubDate: 2024-02-04T00:00:00Z
 imgSrc: "/assets/images/arrow_bg.png"
 imgAlt: "JS Arrow Function"
